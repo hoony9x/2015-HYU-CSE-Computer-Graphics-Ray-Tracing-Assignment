@@ -21,13 +21,13 @@ Now we can generate scene image.
 
 Just run below code.
 ```sh
-java ray.RayTracer [Scene Data with XML Format]
+$ java ray.RayTracer [Scene Data with XML Format]
 ```
 
 In this project, we can find scenes directory and sample xml files.  
 Below command will generate ```four-spheres.xml.png``` in the ```scene``` directory.
 
 ```sh
-java ray.RayTracer scenes/four-spheres.xml
+$ java ray.RayTracer scenes/four-spheres.xml
 ```
 ![four-spheres](https://github.com/khhan1993/2015-HYU-CSE-Computer-Graphics-Ray-Tracing-Assignment/raw/master/scenes/four-spheres.xml.png)
