@@ -1,4 +1,5 @@
-# HYU 2015-1 "Computer Graphics (CSE4020)" Ray Tracing Assignment
+# HYU 2015-1 "Computer Graphics (CSE4020)" Assignment
+## Assignment for implementing "Ray Tracing" using given codes.
 
 This repository contains source code and scene data with xml format, and generated scene images.  
 In this assignment, skeleton code was given.
